@@ -6,4 +6,4 @@ L'arxiu pagweb conté el codi html a mostrar a la pàgina web.
 
 L'arxiu main2, conté el codi per conncetar el mòbil i la placa ESP32 mitjançant bluetooth.
 
-Les imatges mostren les sortides, tant del terminal de Visual Studio COde, com de l'aplicació Serial Bluertooth terminal
+Les imatges mostren les sortides, tant del terminal de Visual Studio Code, com de l'aplicació Serial Bluertooth terminal
